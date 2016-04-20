@@ -1,0 +1,47 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 304
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-12 ; Times: 1
+	Date: 2016-03-11 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gbifdatasetid:1e165f83-b718-428f-802e-62b0839ea54c" ; Times: 3
+	Query: "Crotalus cerberus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 230 download events in this period)
+Total number of records downloaded: 19
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-09 ; Times: 1
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-13 ; Times: 2
+	Date: 2016-03-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "&#34;Sauromalus ater&#34; Arizona" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "plestiodon skiltonianus" ; Times: 1
+
+
+End of report.
