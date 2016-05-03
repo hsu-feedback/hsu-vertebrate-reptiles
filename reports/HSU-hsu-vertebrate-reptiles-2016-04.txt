@@ -1,0 +1,72 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 12
+Number of records retrieved in searches: 16
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Colombia ; Times: 3
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-03 ; Times: 3
+	Date: 2016-04-06 ; Times: 1
+	Date: 2016-04-14 ; Times: 1
+	Date: 2016-04-09 ; Times: 1
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Holcosus festivus" ; Times: 3
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "Lichanura riverside" ; Times: 1
+	Query: "(Crotalus willardi)" ; Times: 1
+	Query: "charina county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Arizona&#34; (cerberus)" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "thamnophis cryptosis" ; Times: 1
+	Query: "Western Pond Turtle" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;arizona&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1312 download events in this period)
+Total number of records downloaded: 52
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-28 ; Times: 1
+	Date: 2016-04-18 ; Times: 1
+	Date: 2016-04-04 ; Times: 2
+	Date: 2016-04-16 ; Times: 2
+	Date: 2016-04-08 ; Times: 3
+	Date: 2016-04-25 ; Times: 1
+	Date: 2016-04-11 ; Times: 1
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "urosaurus ornatus" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "Dipsosaurus dorsalis county:&#34;Clark&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "chionactis occipitalis" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "urosaurus graciosus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+
+
+End of report.
