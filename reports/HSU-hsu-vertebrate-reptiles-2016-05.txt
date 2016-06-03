@@ -1,0 +1,65 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-03 ; Times: 2
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 1
+	Date: 2016-05-31 ; Times: 5
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elaphe subocularis" ; Times: 1
+	Query: "family:Viperidae county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "rena dulcis" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Crotalus oreganus lutosus" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 5
+	Query: "sistrurus Cochise county" ; Times: 1
+	Query: "Pantherophis guttata" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 327 download events in this period)
+Total number of records downloaded: 74
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-31 ; Times: 15
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-19 ; Times: 1
+	Date: 2016-05-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Python reticulatus" ; Times: 1
+	Query: "uta stansburiana" ; Times: 1
+	Query: "specificepithet:olivacea genus:Lepidochelys" ; Times: 5
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 9
+	Query: "coluber stateprovince:&#34;texas&#34;" ; Times: 1
+
+
+End of report.
