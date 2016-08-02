@@ -1,0 +1,104 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for July 2016, generated on 2016/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 41
+Number of records retrieved in searches: 249
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 21
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-25 ; Times: 4
+	Date: 2016-07-26 ; Times: 2
+	Date: 2016-07-27 ; Times: 2
+	Date: 2016-07-20 ; Times: 1
+	Date: 2016-07-07 ; Times: 2
+	Date: 2016-07-17 ; Times: 1
+	Date: 2016-07-05 ; Times: 1
+	Date: 2016-07-19 ; Times: 1
+	Date: 2016-07-18 ; Times: 2
+	Date: 2016-07-09 ; Times: 3
+	Date: 2016-07-28 ; Times: 6
+	Date: 2016-07-29 ; Times: 2
+	Date: 2016-07-13 ; Times: 1
+	Date: 2016-07-10 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-06 ; Times: 7
+	Date: 2016-07-15 ; Times: 2
+	Date: 2016-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus stateprovince:&#34;Arizona&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dispholidus typus" ; Times: 3
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Boaedon fuliginosus" ; Times: 1
+	Query: "tantilla atriceps mexico" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "Crotalus mitchelli Nevada" ; Times: 1
+	Query: "Atractaspis irregularis" ; Times: 2
+	Query: "Trimorphodon county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Tantilla atriceps stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "elaphe subocularis" ; Times: 3
+	Query: "gbifdatasetid:1e165f83-b718-428f-802e-62b0839ea54c" ; Times: 2
+	Query: "Broghammerus reticulatus" ; Times: 2
+	Query: "bitis arietans" ; Times: 1
+	Query: "Charina riverside county" ; Times: 1
+	Query: "specificepithet:coriacea genus:Dermochelys" ; Times: 1
+	Query: "Crotalus cerberus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:poinsettii genus:sceloporus county:&#34;hidalgo&#34; stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "Python sebae" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 2
+	Query: "Hypsiglena torquata (California) institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:mydas genus:Chelonia" ; Times: 1
+	Query: "Rena humilis" ; Times: 6
+	Query: "family:Elapidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Crotalus viridis county:&#34;Hidalgo&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Arizona sistrurus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1219 download events in this period)
+Total number of records downloaded: 334
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-07-24 ; Times: 1
+	Date: 2016-07-11 ; Times: 1
+	Date: 2016-07-15 ; Times: 1
+	Date: 2016-07-07 ; Times: 4
+	Date: 2016-07-08 ; Times: 3
+	Date: 2016-07-29 ; Times: 1
+	Date: 2016-07-06 ; Times: 2
+	Date: 2016-07-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "reptilia Mexico" ; Times: 6
+	Query: "elaphe guttata" ; Times: 1
+	Query: "boidae" ; Times: 1
+	Query: "reptilia Mexico Nayarit" ; Times: 1
+	Query: "agamidae" ; Times: 1
+	Query: "Crotalus AND oreganus AND (NOT helleri NOT nuntius NOT abyssus NOT cerberus NOT lutosus)" ; Times: 1
+	Query: "bitis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Leptotyphlops humilis" ; Times: 1
+
+
+End of report.
