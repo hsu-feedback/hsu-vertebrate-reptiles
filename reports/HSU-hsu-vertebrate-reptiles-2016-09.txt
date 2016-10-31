@@ -1,0 +1,48 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 11
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-11 ; Times: 3
+	Date: 2016-09-08 ; Times: 2
+	Date: 2016-09-09 ; Times: 4
+	Date: 2016-09-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Western Pond Turtle" ; Times: 1
+	Query: "coluber lateralis" ; Times: 1
+	Query: "Actinemys" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 5
+	Query: "Tantilla planiceps" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 4 (out of 811 download events in this period)
+Total number of records downloaded: 6
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 1
+	Country: Thailand ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 1
+	Date: 2016-09-11 ; Times: 1
+	Date: 2016-09-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "thailand" ; Times: 2
+	Query: "coluber lateralis" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+
+
+End of report.
