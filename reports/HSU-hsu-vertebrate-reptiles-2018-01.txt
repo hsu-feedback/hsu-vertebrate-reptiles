@@ -1,0 +1,100 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for January 2018, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 74
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-19 ; Times: 1
+	Date: 2018-01-18 ; Times: 2
+	Date: 2018-01-09 ; Times: 4
+	Date: 2018-01-29 ; Times: 1
+	Date: 2018-01-11 ; Times: 3
+	Date: 2018-01-10 ; Times: 1
+	Date: 2018-01-20 ; Times: 1
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 9
+	Date: 2018-01-24 ; Times: 2
+	Date: 2018-01-17 ; Times: 6
+	Date: 2018-01-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:platurus genus:Hydrophis" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Trinity&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:Charina county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "Porthidium nasutum" ; Times: 2
+	Query: "genus:Petrosaurus county:&#34;San Diego&#34;" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia stateprovince:&#34;California&#34; year &gt;= 2000" ; Times: 1
+	Query: "specificepithet:notata genus:Uma county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "Holcosus festivus" ; Times: 2
+	Query: "genus:Crotalus county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "causus resimus" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:platyrhinos genus:heterodon stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "specificepithet:notata genus:Uma stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;virginia&#34; Crotalus horridus" ; Times: 1
+	Query: "genus:Chionactis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Uta county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Contia county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Petrosaurus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Chionactis county:&#34;imperial&#34;" ; Times: 1
+	Query: "genus:Uma county:&#34;Imperial&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Xantusia county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;Nevada&#34; year &gt;= 1980" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 13 (out of 1398 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-01-08 ; Times: 1
+	Date: 2018-01-11 ; Times: 1
+	Date: 2018-01-25 ; Times: 2
+	Date: 2018-01-13 ; Times: 1
+	Date: 2018-01-15 ; Times: 2
+	Date: 2018-01-07 ; Times: 1
+	Date: 2018-01-04 ; Times: 2
+	Date: 2018-01-05 ; Times: 1
+	Date: 2018-01-24 ; Times: 1
+	Date: 2018-01-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Petrosaurus county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "gambelia sila" ; Times: 1
+	Query: "specificepithet:sila genus:Gambelia" ; Times: 1
+	Query: "crotalus molossus" ; Times: 1
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "anniella" ; Times: 1
+	Query: "phrynosoma hernandesi" ; Times: 1
+	Query: "genus:boa" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "specificepithet:graciosus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 1980" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+
+
+End of report.
