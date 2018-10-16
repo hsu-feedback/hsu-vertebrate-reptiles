@@ -1,0 +1,93 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 58
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 57
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 4
+	Date: 2018-03-19 ; Times: 1
+	Date: 2018-03-09 ; Times: 1
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 3
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 5
+	Date: 2018-03-28 ; Times: 6
+	Date: 2018-03-29 ; Times: 4
+	Date: 2018-03-26 ; Times: 16
+	Date: 2018-03-27 ; Times: 6
+	Date: 2018-03-12 ; Times: 2
+	Date: 2018-03-22 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-20 ; Times: 2
+	Date: 2018-03-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;state 82&#34; class:Reptilia county:&#34;Cochise&#34;" ; Times: 2
+	Query: "specificepithet:zonata county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "thamnophis elegans county:&#34;kern&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Xantusia sierrae" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 2
+	Query: "zonata san diego county" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 6
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 5
+	Query: "crotaphytus collaris Maricopa" ; Times: 1
+	Query: "Crotalus mitchelli stephensi stateprovince:&#34;Nevada&#34;" ; Times: 3
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 2
+	Query: "Crotalus viridis helleri" ; Times: 1
+	Query: "genus:Gambelia specificepithet:sila" ; Times: 2
+	Query: "thamnophis elegans county:&#34;Napa&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 2
+	Query: "genus:Aspidoscelis catalognumber:340" ; Times: 1
+	Query: "82 class:Reptilia county:&#34;Cochise&#34;" ; Times: 1
+	Query: "cuora amboinensis" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 2
+	Query: "genus:Lampropeltis county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 2
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 6
+	Query: "genus:Dasypeltis specificepithet:scabra" ; Times: 5
+	Query: "specificepithet:zonata county:&#34;trinity&#34;" ; Times: 1
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 3
+	Query: "specificepithet:zonata county:&#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1284 download events in this period)
+Total number of records downloaded: 741
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-15 ; Times: 2
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-28 ; Times: 1
+	Date: 2018-03-26 ; Times: 1
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus pricei" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "Diadophis punctatus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "locality:Watauga stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "python regius" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+
+
+End of report.
