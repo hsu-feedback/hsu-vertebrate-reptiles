@@ -1,0 +1,149 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 34
+Number of records retrieved in searches: 55
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Panama ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-01 ; Times: 2
+	Date: 2018-04-12 ; Times: 8
+	Date: 2018-04-03 ; Times: 3
+	Date: 2018-04-11 ; Times: 4
+	Date: 2018-04-16 ; Times: 2
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-06 ; Times: 1
+	Date: 2018-04-08 ; Times: 1
+	Date: 2018-04-18 ; Times: 1
+	Date: 2018-04-13 ; Times: 1
+	Date: 2018-04-10 ; Times: 1
+	Date: 2018-04-22 ; Times: 2
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-27 ; Times: 3
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-24 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotophytus collaris" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;San diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "bogertophis subocularis" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus" ; Times: 2
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Charina county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Uma county:&#34;Imperial&#34; year &gt;= 1990" ; Times: 1
+	Query: "hypsiglena jani texana" ; Times: 1
+	Query: "genus:Agkistrodon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "crotophytus" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;trinity&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 2
+	Query: "Arizona flagellum lineatulus" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;San Diego&#34; year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 2
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:coleonyx county:&#34;Imperial&#34; year &gt;= 1990" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "chameleo" ; Times: 3
+	Query: "genus:Micruroides sex:male OR female" ; Times: 1
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "specificepithet:zonata county:&#34;trinity&#34;" ; Times: 1
+	Query: "genus:crotalus county:&#34;Shasta&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 71 (out of 1359 download events in this period)
+Total number of records downloaded: 1657
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 68
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-12 ; Times: 13
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-05 ; Times: 1
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-09 ; Times: 2
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 3
+	Date: 2018-04-10 ; Times: 5
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-22 ; Times: 4
+	Date: 2018-04-23 ; Times: 17
+	Date: 2018-04-30 ; Times: 1
+	Date: 2018-04-20 ; Times: 10
+	Date: 2018-04-26 ; Times: 3
+	Date: 2018-04-25 ; Times: 1
+	Date: 2018-04-17 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Teiidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Callisaurus sex:male OR female" ; Times: 3
+	Query: "genus:pituophis sex:male OR female" ; Times: 1
+	Query: "genus:Opheodrys sex:male OR female" ; Times: 2
+	Query: "genus:Trimorphodon sex:male OR female" ; Times: 1
+	Query: "genus:lampropeltis sex:male OR female" ; Times: 1
+	Query: "genus:Crotaphytus sex:Male OR Female" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 2
+	Query: "genus:Coleonyx sex:male OR female" ; Times: 2
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "elgaria multicarinata" ; Times: 1
+	Query: "genus:Rhinocheilus sex:male OR female" ; Times: 1
+	Query: "family:Leptotyphlopidae stateprovince:&#34;Arizona&#34; (spring)" ; Times: 1
+	Query: "family:Boidae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:apalone sex:male OR female" ; Times: 2
+	Query: "genus:Coluber sex:male OR female" ; Times: 1
+	Query: "genus:chrysemys sex:male OR female" ; Times: 2
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "genus:holbrookia sex:male OR female" ; Times: 1
+	Query: "genus:charina sex:male OR female" ; Times: 1
+	Query: "family:Anguidae stateprovince:&#34;California&#34; (canyon)" ; Times: 2
+	Query: "genus:Sauromalus sex:Male OR Female" ; Times: 1
+	Query: "genus:carphophis sex:male OR female" ; Times: 1
+	Query: "genus:xantusia sex:male OR female" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Hypsiglena sex:male OR female" ; Times: 1
+	Query: "genus:Gambelia sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Arizona&#34; (canyon)" ; Times: 1
+	Query: "genus:Apalone sex:male OR female" ; Times: 1
+	Query: "genus:Phyllorhynchus sex:male OR female" ; Times: 2
+	Query: "genus:sistrurus sex:male OR female" ; Times: 1
+	Query: "genus:Uta sex:male OR female" ; Times: 1
+	Query: "genus:Sceloporus sex:male OR female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;Nevada&#34; (canyon)" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "family:Colubridae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "genus:Aspidoscelis sex:male OR female" ; Times: 3
+	Query: "family:Phrynosomatidae stateprovince:&#34;California&#34; (canyon)" ; Times: 1
+	Query: "family:Crotaphytidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:thamnophis sex:male OR female" ; Times: 1
+	Query: "family:Phrynosomatidae stateprovince:&#34;Nevada&#34; (spring)" ; Times: 1
+	Query: "genus:callisaurus sex:male OR female" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:tantilla sex:male OR female" ; Times: 2
+	Query: "genus:anniella stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:opheodrys sex:male OR female" ; Times: 1
+	Query: "genus:Dipsosaurus sex:male OR female" ; Times: 2
+	Query: "genus:Lampropeltis sex:male OR female" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 2
+	Query: "Lampropeltis New Mexico" ; Times: 1
+	Query: "genus:agkistrodon sex:male OR female" ; Times: 2
+	Query: "genus:Elgaria sex:male OR female" ; Times: 1
+	Query: "genus:Phrynosoma sex:Male OR Female" ; Times: 1
+	Query: "genus:Urosaurus sex:male OR female" ; Times: 1
+
+
+End of report.
