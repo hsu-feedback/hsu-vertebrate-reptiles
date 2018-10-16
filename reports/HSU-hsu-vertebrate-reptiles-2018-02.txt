@@ -1,0 +1,94 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 23
+Number of records retrieved in searches: 37
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-21 ; Times: 1
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-24 ; Times: 1
+	Date: 2018-02-27 ; Times: 5
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-26 ; Times: 1
+	Date: 2018-02-18 ; Times: 3
+	Date: 2018-02-09 ; Times: 1
+	Date: 2018-02-08 ; Times: 1
+	Date: 2018-02-01 ; Times: 1
+	Date: 2018-02-07 ; Times: 1
+	Date: 2018-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Reptilia Arizona barfoot" ; Times: 1
+	Query: "lampropeltis annulata" ; Times: 1
+	Query: "Crotalus lepidus klauberi" ; Times: 1
+	Query: "specificepithet:atriceps genus:Tantilla stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus Stephensi Nevada" ; Times: 1
+	Query: "elaphe guttatus" ; Times: 1
+	Query: "Typhlops punctatus" ; Times: 1
+	Query: "Xantusia sierrae" ; Times: 1
+	Query: "Crotalus viridis Colorado Grand" ; Times: 1
+	Query: "crotalus Stephensi Clark county Nevada" ; Times: 1
+	Query: "crotalus willardi" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Crotalus Cerberus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Xantusia vigilis sierrae" ; Times: 1
+	Query: "genus:Lampropeltis county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Crotalus Cerberus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "Rena humilis" ; Times: 2
+	Query: "Crotalus lepidus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Clark county Nevada Crotalus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 1892 download events in this period)
+Total number of records downloaded: 53
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 15
+	Country: South Africa ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 6
+	Date: 2018-02-15 ; Times: 1
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-22 ; Times: 1
+	Date: 2018-02-27 ; Times: 2
+	Date: 2018-02-12 ; Times: 1
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-03 ; Times: 1
+	Date: 2018-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "reptile michigan" ; Times: 2
+	Query: "clemmys marmorata" ; Times: 1
+	Query: "Sceloporus graciosus graciosus" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "python sebae" ; Times: 1
+	Query: "Phrynosoma platyrhinos" ; Times: 1
+	Query: "specificepithet:cerastes genus:crotalus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "Heterodon nasicus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "Xantusia vigilis sierrae" ; Times: 1
+	Query: "Anniella pulchra pulchra" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Xantusia sierrae" ; Times: 1
+	Query: "Masticophis flagellum piceus" ; Times: 1
+	Query: "dasypeltis scabra" ; Times: 1
+
+
+End of report.
