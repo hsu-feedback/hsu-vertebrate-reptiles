@@ -1,0 +1,130 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 61
+Number of records retrieved in searches: 208
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 51
+	Country: Colombia ; Times: 4
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-11 ; Times: 1
+	Date: 2018-08-10 ; Times: 4
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-06 ; Times: 3
+	Date: 2018-08-27 ; Times: 2
+	Date: 2018-08-05 ; Times: 21
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 3
+	Date: 2018-08-09 ; Times: 4
+	Date: 2018-08-22 ; Times: 6
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-16 ; Times: 1
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-15 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Willardi" ; Times: 1
+	Query: "Naja melanoleuca" ; Times: 2
+	Query: "Epicrates cenchria" ; Times: 4
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "micruroides" ; Times: 1
+	Query: "specificepithet:atriceps genus:tantilla stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Broghammerus" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 15
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Agkistrodon contortix" ; Times: 1
+	Query: "Klauberi new mexico" ; Times: 1
+	Query: "crotalus willardi" ; Times: 19
+	Query: "agkistrodon contortix" ; Times: 1
+	Query: "specificepithet:atriceps genus:tantilla country:&#34;United States&#34;" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;California&#34; year &gt;= 2018" ; Times: 2
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 4
+	Query: "specificepithet:stephensi genus:Crotalus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 1416 download events in this period)
+Total number of records downloaded: 604
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 17
+	Country: Spain ; Times: 23
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-26 ; Times: 1
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-09 ; Times: 9
+	Date: 2018-08-08 ; Times: 1
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-20 ; Times: 2
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-17 ; Times: 2
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-15 ; Times: 2
+	Date: 2018-08-01 ; Times: 3
+	Date: 2018-08-10 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Opheodrys OR Liochlorophis sex:male OR female" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 1
+	Query: "family:Colubridae" ; Times: 2
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "specificepithet:viridis genus:Crotalus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "Bothrops atrox" ; Times: 1
+	Query: "genus:madatyphlops OR typhlops" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Porthidium nasutum" ; Times: 1
+	Query: "genus:Sonora sex:male OR female" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "Epicrates cenchria" ; Times: 1
+	Query: "Pelamis" ; Times: 1
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "genus:Apalone OR Trionyx sex:male OR female" ; Times: 1
+	Query: "Crotalus cerastes" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Crotalus ruber" ; Times: 1
+	Query: "gambelia" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "Agkistrodon laticinctus" ; Times: 1
+	Query: "Crotalus pricei" ; Times: 1
+	Query: "genus:Lichanura OR Charina sex:male OR female" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "Crotalus scutulatus" ; Times: 1
+	Query: "Crotalus adamanteus" ; Times: 1
+	Query: "Crotalus horridus" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "genus:Cnemidophorus OR Aspidoscelis sex:male OR female" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "crotalinae" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "genus:Coluber OR Masticophis sex:male OR female" ; Times: 1
+	Query: "genus:Sauromalus sex:male OR female" ; Times: 2
+	Query: "Lampropeltis zonata" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "genus:Naja melanoleuca" ; Times: 1
+	Query: "brazos county agkistrodon" ; Times: 1
+
+
+End of report.
