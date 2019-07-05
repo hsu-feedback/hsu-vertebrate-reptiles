@@ -1,0 +1,103 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for June 2019, generated on 2019/07/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 87
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-18 ; Times: 1
+	Date: 2019-06-09 ; Times: 2
+	Date: 2019-06-06 ; Times: 1
+	Date: 2019-06-14 ; Times: 1
+	Date: 2019-06-17 ; Times: 1
+	Date: 2019-06-05 ; Times: 3
+	Date: 2019-06-11 ; Times: 29
+	Date: 2019-06-10 ; Times: 9
+	Date: 2019-06-30 ; Times: 2
+	Date: 2019-06-01 ; Times: 1
+	Date: 2019-06-25 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Elgaria specificepithet:kingii" ; Times: 1
+	Query: "genus:Rena specificepithet:humilis" ; Times: 1
+	Query: "genus:Afrotyphlops specificepithet:punctatus" ; Times: 1
+	Query: "genus:Tantilla specificepithet:nigriceps" ; Times: 1
+	Query: "genus:Contia specificepithet:tenuis" ; Times: 1
+	Query: "genus:Lampropeltis specificepithet:californiae" ; Times: 1
+	Query: "genus:Dermochelys specificepithet:coriacea" ; Times: 1
+	Query: "genus:Atractaspis specificepithet:irregularis" ; Times: 1
+	Query: "aspidoscelis tigris county:&#34;lassen&#34;" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "genus:Epicrates specificepithet:cenchria" ; Times: 1
+	Query: "genus:Tantilla specificepithet:atriceps" ; Times: 1
+	Query: "genus:Trioceros specificepithet:bitaeniatus" ; Times: 1
+	Query: "genus:Cuora specificepithet:amboinensis" ; Times: 1
+	Query: "family:Gekkonidae order:Squamata class:Reptilia country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Gambelia specificepithet:sila" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "genus:Trioceros specificepithet:jacksonii" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis county:&#34;Trinity&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Crotalus molossus Texas" ; Times: 2
+	Query: "genus:Bitis specificepithet:arietans" ; Times: 1
+	Query: "genus:Trogonophis specificepithet:wiegmanni" ; Times: 1
+	Query: "specificepithet:ordinoides genus:thamnophis county:&#34;humboldt&#34;" ; Times: 2
+	Query: "genus:Dasypeltis specificepithet:scabra" ; Times: 2
+	Query: "genus:Hypsiglena specificepithet:jani" ; Times: 1
+	Query: "genus:xantusia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; year &gt;= 1990" ; Times: 1
+	Query: "genus:gambelia stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "family:Crotaphytidae county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Charina specificepithet:bottae" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "genus:Bogertophis specificepithet:subocularis" ; Times: 1
+	Query: "genus:Chamaesaura specificepithet:anguina" ; Times: 1
+	Query: "genus:Plestiodon specificepithet:septentrionalis" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Micruroides specificepithet:euryxanthus" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis" ; Times: 3
+	Query: "genus:Chelus specificepithet:fimbriatus" ; Times: 1
+	Query: "genus:Naja specificepithet:melanoleuca" ; Times: 1
+	Query: "class:Reptilia locality:Eniwetok country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "genus:Mochlus specificepithet:sundevalli" ; Times: 1
+	Query: "genus:Phrynosoma county:&#34;Lassen&#34;" ; Times: 1
+	Query: "genus:Causus specificepithet:rhombeatus" ; Times: 1
+	Query: "genus:Crotaphytus county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 1182 download events in this period)
+Total number of records downloaded: 22
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-06-26 ; Times: 2
+	Date: 2019-06-09 ; Times: 1
+	Date: 2019-06-28 ; Times: 1
+	Date: 2019-06-17 ; Times: 2
+	Date: 2019-06-05 ; Times: 1
+	Date: 2019-06-11 ; Times: 1
+	Date: 2019-06-03 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "crotaphytus bicinctores" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Thamnophis atratus" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "crotalus cerberus" ; Times: 2
+	Query: "genus:Dermochelys" ; Times: 1
+	Query: "specificepithet:catenatus genus:sistrurus" ; Times: 1
+	Query: "vntype:specimen class:Reptilia stateprovince:&#34;South Carolina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+
+End of report.
