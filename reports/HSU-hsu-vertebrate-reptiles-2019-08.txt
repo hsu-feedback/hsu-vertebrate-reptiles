@@ -1,0 +1,123 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 111
+Number of records retrieved in searches: 119
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 100
+	Country: Unknown ; Times: 9
+	Country: El Salvador ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-08 ; Times: 19
+	Date: 2019-08-19 ; Times: 11
+	Date: 2019-08-17 ; Times: 5
+	Date: 2019-08-16 ; Times: 20
+	Date: 2019-08-15 ; Times: 3
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-05 ; Times: 1
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 12
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 2
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 6
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 18
+	Date: 2019-08-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aspidoscelis fairbank" ; Times: 1
+	Query: "Tantilla atriceps" ; Times: 1
+	Query: "catalognumber:255 institutioncode:HSU" ; Times: 2
+	Query: "class:Reptilia catalognumber:251 institutioncode:HSU" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; catalognumber:255 institutioncode:HSU" ; Times: 2
+	Query: "Sistrurus catenatus catenatus" ; Times: 5
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; catalognumber:253 institutioncode:HSU" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "catalognumber:253 institutioncode:HSU" ; Times: 1
+	Query: "Sistrurus catenatus" ; Times: 3
+	Query: "genus:gambelia county:&#34;fresno&#34;" ; Times: 17
+	Query: "genus:Actinemys specificepithet:marmorata" ; Times: 1
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; institutioncode:HSU" ; Times: 2
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; catalognumber:250 institutioncode:HSU" ; Times: 1
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "catalognumber:254 institutioncode:HSU" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "class:Reptilia country:&#34;Marshall Islands&#34; catalognumber:254 institutioncode:HSU" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "catalognumber:250 institutioncode:HSU" ; Times: 2
+	Query: "Aspidoscelis fairbank" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Fresno&#34;" ; Times: 54
+	Query: "crotalus willardi" ; Times: 1
+	Query: "class:Reptilia locality:Eniwetok country:&#34;Marshall Islands&#34;" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:HSU" ; Times: 5
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1034 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Brazil ; Times: 1
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-09 ; Times: 2
+	Date: 2019-08-02 ; Times: 5
+	Date: 2019-08-01 ; Times: 3
+	Date: 2019-08-15 ; Times: 2
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-04 ; Times: 3
+	Date: 2019-08-05 ; Times: 2
+	Date: 2019-08-28 ; Times: 2
+	Date: 2019-08-07 ; Times: 2
+	Date: 2019-08-26 ; Times: 1
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus molossus" ; Times: 1
+	Query: "typhlops" ; Times: 1
+	Query: "Crotalus stephensi" ; Times: 1
+	Query: "genus:pituophis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sceloporus poinsettii" ; Times: 1
+	Query: "Micruroides euryxanthus" ; Times: 1
+	Query: "crotalus ruber" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;colorado&#34;" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Lampropeltis mexicana" ; Times: 1
+	Query: "Sceloporus jarrovii" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 2
+	Query: "genus:Pituophis stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Rena humilis" ; Times: 1
+	Query: "genus:Gambelia county:&#34;Fresno&#34;" ; Times: 2
+	Query: "Sceloporus clarkii" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 1
+	Query: "specificepithet:inornata family:Teiidae stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Hydrophis platurus" ; Times: 1
+	Query: "specificepithet:multicarinata genus:elgaria" ; Times: 1
+	Query: "specificepithet:ornatus genus:Urosaurus county:&#34;Pima&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Masticophis bilineatus" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Rhinocheilus lecontei" ; Times: 1
+
+
+End of report.
