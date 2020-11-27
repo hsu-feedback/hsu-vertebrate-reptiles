@@ -1,0 +1,90 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 152
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-10 ; Times: 29
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-12 ; Times: 1
+	Date: 2019-12-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:pulchra class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:magister class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:multicarinata class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:sila class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:olivacea class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:variegatus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "genus:uta stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:wislizenii class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:skiltonianus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:coerulea class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:notata genus:uma stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:marmorata class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:orcutti genus:sceloporus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "catalognumber:281 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:graciosus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:mearnsi class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:vigilis class:reptilia county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:draconoides class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:inornata genus:uma stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "masticophus" ; Times: 1
+	Query: "specificepithet:coriacea stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "specificepithet:tigris class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:vigilis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:urosaurus stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:dorsalis class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 1
+	Query: "specificepithet:vigilis genus:xantusia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+	Query: "specificepithet:ater class:reptilia stateprovince:&#34;California&#34; year &gt;= 2010" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 596 download events in this period)
+Total number of records downloaded: 77
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Belgium ; Times: 5
+	Country: Australia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-19 ; Times: 3
+	Date: 2019-12-05 ; Times: 3
+	Date: 2019-12-28 ; Times: 2
+	Date: 2019-12-24 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "Varanus prasinus" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Crotalus lutosus" ; Times: 1
+	Query: "anniella pulchra" ; Times: 1
+	Query: "Elgaria multicarinata" ; Times: 1
+	Query: "locality:Gorgona country:&#34;Colombia&#34;" ; Times: 1
+
+
+End of report.
