@@ -1,0 +1,99 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 41
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-30 ; Times: 1
+	Date: 2020-03-31 ; Times: 2
+	Date: 2020-03-24 ; Times: 2
+	Date: 2020-03-09 ; Times: 5
+	Date: 2020-03-08 ; Times: 2
+	Date: 2020-03-19 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-23 ; Times: 2
+	Date: 2020-03-15 ; Times: 2
+	Date: 2020-03-13 ; Times: 1
+	Date: 2020-03-10 ; Times: 2
+	Date: 2020-03-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crotalus molossus texas" ; Times: 2
+	Query: "specificepithet:splendida genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:erythrogaster genus:Nerodia stateprovince:&#34;South Carolina&#34;" ; Times: 3
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1960" ; Times: 1
+	Query: "genus:Contia county:&#34;Humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "elgaria multicarinata county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "specificepithet:stansburiana genus:uta county:&#34;Lassen&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:platyrhinos county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "specificepithet:bottae genus:charina stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Salvadora stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:coronatum county:&#34;san diego&#34;" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "specificepithet:elegans genus:Thamnophis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 3
+	Query: "genus:Lepidochelys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:stephensi genus:Crotalus" ; Times: 2
+	Query: "elgaria multicarinata county:&#34;humboldt&#34;" ; Times: 1
+	Query: "specificepithet:lepidus genus:crotalus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 853 download events in this period)
+Total number of records downloaded: 99
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 21
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-02 ; Times: 4
+	Date: 2020-03-27 ; Times: 1
+	Date: 2020-03-26 ; Times: 1
+	Date: 2020-03-25 ; Times: 1
+	Date: 2020-03-24 ; Times: 1
+	Date: 2020-03-20 ; Times: 1
+	Date: 2020-03-05 ; Times: 1
+	Date: 2020-03-17 ; Times: 2
+	Date: 2020-03-04 ; Times: 2
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-13 ; Times: 6
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:aestivus genus:Opheodrys" ; Times: 1
+	Query: "specificepithet:adamanteus genus:crotalus" ; Times: 1
+	Query: "specificepithet:californiae genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "genus:charina" ; Times: 1
+	Query: "specificepithet:alterna genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:splendida genus:Lampropeltis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "specificepithet:guttatus genus:Pantherophis" ; Times: 1
+	Query: "specificepithet:subocularis genus:Bogertophis" ; Times: 1
+	Query: "specificepithet:getula genus:Lampropeltis" ; Times: 1
+	Query: "genus:Sistrurus" ; Times: 1
+	Query: "specificepithet:triangulum genus:Lampropeltis" ; Times: 1
+	Query: "genus:Hypsiglena" ; Times: 1
+	Query: "specificepithet:elegans genus:Arizona" ; Times: 1
+	Query: "specificepithet:calligaster genus:Lampropeltis" ; Times: 1
+	Query: "class:reptilia stateprovince:&#34;Colima&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:horridus genus:Crotalus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 1
+	Query: "genus:Sonora" ; Times: 1
+
+
+End of report.
