@@ -1,0 +1,61 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 39
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 38
+	Country: Sweden ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 10
+	Date: 2019-10-22 ; Times: 3
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 4
+	Date: 2019-10-13 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-31 ; Times: 18
+
+List of queries that retrieved data from the resource: 
+	Query: "sistrurus arizona" ; Times: 1
+	Query: "crotalus klauberi new mexico" ; Times: 1
+	Query: "Sistrurus catenatus 1979" ; Times: 1
+	Query: "Sistrurus catenatus 2016" ; Times: 1
+	Query: "crotalus willardi" ; Times: 15
+	Query: "specificepithet:nelsoni genus:pseudemys stateprovince:&#34;florida&#34; year &gt;= 1970" ; Times: 1
+	Query: "Sauromalus Nevada" ; Times: 18
+	Query: "specificepithet:lepidus genus:Crotalus stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1308 download events in this period)
+Total number of records downloaded: 28
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: Unknown ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 10
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "sphaerodactylus macrolepis" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "sceloporus clarkii" ; Times: 4
+	Query: "SCELOPORUS CLARKII" ; Times: 3
+	Query: "vntype:specimen specificepithet:tesselata genus:Aspidoscelis" ; Times: 1
+	Query: "sceloporus Clarkii" ; Times: 1
+	Query: "genus:Lampropeltis stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Sceloporus clarkii" ; Times: 2
+
+
+End of report.
