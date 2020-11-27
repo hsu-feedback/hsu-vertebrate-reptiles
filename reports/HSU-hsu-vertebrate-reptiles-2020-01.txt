@@ -1,0 +1,88 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 22
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 4
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-24 ; Times: 1
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Callisaurus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:Zonata genus:Lampropeltis county:&#34;Humboldt&#34;" ; Times: 1
+	Query: "county:&#34;wayne&#34; stateprovince:&#34;west virginia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Crotalus stephensi stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "sila Gambelia" ; Times: 1
+	Query: "specificepithet:vigilis genus:Xantusia county:&#34;riverside&#34; stateprovince:&#34;California&#34; year &gt;= 2003" ; Times: 1
+	Query: "specificepithet:macrolepis genus:Sphaerodactylus institutioncode:HSU" ; Times: 6
+	Query: "&#34;lichanura trivirgata&#34; country:united states" ; Times: 1
+	Query: "Sauromalus Nevada" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 1584 download events in this period)
+Total number of records downloaded: 55
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 25
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-28 ; Times: 2
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-31 ; Times: 6
+	Date: 2020-01-25 ; Times: 5
+	Date: 2020-01-24 ; Times: 10
+	Date: 2020-01-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "hydrophis platurus" ; Times: 1
+	Query: "Aspidoscelis burti" ; Times: 1
+	Query: "Aspidoscelis uniparens" ; Times: 1
+	Query: "Plestiodon gilberti" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "cordylidae" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Plestiodon septentrionalis" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Sceloporus tristichus" ; Times: 1
+	Query: "Aspidoscelis neomexicanus" ; Times: 1
+	Query: "Trioceros jacksonii" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Aspidoscelis sackii" ; Times: 1
+	Query: "Anniella pulchra" ; Times: 1
+	Query: "Gambelia sila" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "Holbrookia approximans" ; Times: 1
+	Query: "Sceloporus uniformis" ; Times: 1
+	Query: "Crotaphytus insularis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "specificepithet:Cornutum genus:Phrynosoma year &gt;= 1800 year &lt;= 1959" ; Times: 1
+	Query: "Sceloporus orcutti" ; Times: 1
+	Query: "specificepithet:graciosus genus:Urosaurus" ; Times: 1
+
+
+End of report.
