@@ -1,0 +1,106 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 29
+Number of records retrieved in searches: 36
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Sweden ; Times: 8
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 3
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 5
+	Date: 2020-05-30 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-01 ; Times: 2
+	Date: 2020-05-09 ; Times: 4
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-13 ; Times: 4
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:magister genus:Sceloporus county:&#34;Inyo&#34;" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus county:&#34;humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Lichanura trivirgata gracia" ; Times: 2
+	Query: "specificepithet:alterna genus:Lampropeltis county:&#34;Val Verde&#34;" ; Times: 2
+	Query: "genus:Sistrurus county:&#34;Cochise&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus stateprovince:&#34;california&#34; year &gt;= 1969 year &lt;= 1970" ; Times: 1
+	Query: "genus:Charina stateprovince:&#34;NEvada&#34;" ; Times: 5
+	Query: "genus:Sistrurus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:cerberus genus:Crotalus county:&#34;Yavapai&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chelydra holmes" ; Times: 1
+	Query: "stateprovince:&#34;New Mexico&#34; Thamnophis marcianus" ; Times: 2
+	Query: "specificepithet:graciosus genus:Sceloporus county:&#34;Inyo&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Micruroides stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cerberus genus:Crotalus stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:alterna genus:Lampropeltis county:&#34;val verde&#34;" ; Times: 2
+	Query: "specificepithet:cerberus genus:Crotalus county:&#34;Maricopa&#34; stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:phyllorhynchus county:&#34;kern&#34;" ; Times: 1
+	Query: "genus:Dipsosaurus county:&#34;kern&#34;" ; Times: 1
+	Query: "heterodon Mexico" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 1106 download events in this period)
+Total number of records downloaded: 98
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 2
+	Country: Australia ; Times: 5
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 1
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-22 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 2
+	Date: 2020-05-19 ; Times: 2
+	Date: 2020-05-06 ; Times: 2
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-11 ; Times: 1
+	Date: 2020-05-03 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Thamnophis class:reptilia stateprovince:&#34;Texas&#34; year &gt;= 1930 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:graciosus genus:sceloporus county:&#34;humboldt&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Uma inornata" ; Times: 1
+	Query: "contia" ; Times: 1
+	Query: "Charina bottae" ; Times: 4
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Actinemys marmorata" ; Times: 1
+	Query: "reptilia oregon" ; Times: 1
+	Query: "Agkistrodon contortrix" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "Dipsosaurus Arizona" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "crotalus pricei" ; Times: 1
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "Arizona elegans" ; Times: 1
+	Query: "Agkistrodon piscivorus" ; Times: 1
+	Query: "Crotalus cerberus" ; Times: 2
+	Query: "CROTALUS HORRIDUS" ; Times: 2
+
+
+End of report.
