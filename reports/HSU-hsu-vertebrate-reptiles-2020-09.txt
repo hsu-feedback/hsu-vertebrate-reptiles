@@ -1,0 +1,80 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 21
+Number of records retrieved in searches: 33
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 7
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-10 ; Times: 1
+	Date: 2020-09-27 ; Times: 7
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-19 ; Times: 3
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Sphaerodactylus (Mexico OR Honduras OR Belize OR panama OR Costa Rica OR Colombia OR Guatemala) AND (NOT cuba)" ; Times: 1
+	Query: "Micruroides arizona" ; Times: 2
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "genus:crotaphytus county:&#34;lassen&#34;" ; Times: 2
+	Query: "Crotaphopeltis hotamboeia" ; Times: 7
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "genus:Phyllorhynchus county:&#34;imperial&#34;" ; Times: 2
+	Query: "actinemys marmorata" ; Times: 1
+	Query: "specificepithet:draconoides county:&#34;kern&#34;" ; Times: 1
+	Query: "Elaphe guttatus" ; Times: 1
+	Query: "Crotalus pricei arizona" ; Times: 1
+	Query: "Hypsiglena ochrorhynchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 16 (out of 976 download events in this period)
+Total number of records downloaded: 774
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-21 ; Times: 1
+	Date: 2020-09-22 ; Times: 2
+	Date: 2020-09-24 ; Times: 4
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-09 ; Times: 2
+	Date: 2020-09-17 ; Times: 2
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "thamnophis marcianus" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "chelus fimbriatus" ; Times: 1
+	Query: "Callisaurus draconoides rhodostictus" ; Times: 2
+	Query: "Crotaphytus bicinctores" ; Times: 1
+	Query: "specificepithet:graciosus genus:Sceloporus" ; Times: 1
+	Query: "Crotaphopeltis hotamboeia" ; Times: 2
+	Query: "nerodia fasciata" ; Times: 1
+	Query: "Aspidoscelis tigris" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 1
+	Query: "specificepithet:jacksonii genus:Trioceros" ; Times: 1
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "nerodia sipedon" ; Times: 1
+	Query: "nerodia rhombifer" ; Times: 1
+
+
+End of report.
