@@ -1,0 +1,88 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 28
+Number of records retrieved in searches: 35
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 27
+	Country: Australia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-19 ; Times: 7
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-29 ; Times: 3
+	Date: 2020-07-02 ; Times: 4
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-17 ; Times: 4
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "class:Reptilia locality:Cameron county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 3
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1977 year &lt;= 1977" ; Times: 1
+	Query: "crotalus willardi" ; Times: 3
+	Query: "porthidium nasutum" ; Times: 1
+	Query: "crotalus lepidus klauberi new mexico" ; Times: 1
+	Query: "class:Reptilia locality:Tehachapi county:&#34;Kern&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1971 year &lt;= 1975" ; Times: 1
+	Query: "trioceros jacksonii" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1981 year &lt;= 1990" ; Times: 1
+	Query: "crotalus lepidus klauberi" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1992 year &lt;= 1993" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1950 year &lt;= 1960" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1961 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:zonata genus:Lampropeltis stateprovince:&#34;California&#34; year &gt;= 1971 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:sirtalis stateprovince:&#34;california&#34; year &gt;= 1993 year &lt;= 1993" ; Times: 1
+	Query: "crotalus mitchelli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 940 download events in this period)
+Total number of records downloaded: 431
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Australia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-20 ; Times: 1
+	Date: 2020-07-13 ; Times: 5
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-30 ; Times: 1
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-07 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "elapidae" ; Times: 1
+	Query: "sonora semiannulata texas" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "class:Reptilia haslength:1" ; Times: 1
+	Query: "specificepithet:douglassi genus:phrynosoma" ; Times: 1
+	Query: "Aspidoscelis sacki" ; Times: 1
+	Query: "viperidae" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Sceloporus stateprovince:&#34;California&#34; year &gt;= 1951 year &lt;= 1980" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "Lampropeltis splendida" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+
+End of report.
