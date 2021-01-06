@@ -1,0 +1,63 @@
+Report for Institution Code HSU, Resource hsu-vertebrate-reptiles
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 20
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 10
+	Country: Sweden ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-04 ; Times: 1
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-09 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-13 ; Times: 1
+	Date: 2020-12-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:lepidochelys stateprovince:&#34;California&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "specificepithet:willardi genus:Crotalus" ; Times: 1
+	Query: "coluber stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "Lampropeltis zonata county:&#34;trinity&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:zonata genus:lampropeltis county:&#34;humboldt&#34;" ; Times: 2
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Dermochelys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "genus:Hypsiglena county:&#34;shasta&#34;" ; Times: 1
+	Query: "Cuora amboinensis" ; Times: 1
+	Query: "specificepithet:tenuis genus:contia county:&#34;lake&#34;" ; Times: 1
+	Query: "genus:Sphaerodactylus country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon county:&#34;Riley&#34; stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 705 download events in this period)
+Total number of records downloaded: 94
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Unknown ; Times: 6
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-23 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "Trogonophis wiegmanni" ; Times: 1
+	Query: "Ameiva ameiva" ; Times: 1
+	Query: "Sceloporus occidentalis" ; Times: 1
+	Query: "Phrynosoma coronatum" ; Times: 1
+	Query: "agama agama" ; Times: 1
+
+
+End of report.
